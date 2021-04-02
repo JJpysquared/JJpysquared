@@ -1,4 +1,4 @@
-I'm just another kid from New Jersey sharing knowledge. 
+I'm just another guy from New Jersey sharing knowledge. 
 
 <!---
 JJpysquared/JJpysquared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
